@@ -2,9 +2,5 @@
     {
         "package": "heatmap4",
         "url": "https://github.com/rituroy/heatmap4"
-    },
-    {
-        "package": "snacky",
-        "url": "https://github.com/rituroy/snacky"
     }
 ]
